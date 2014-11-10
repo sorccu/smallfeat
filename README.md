@@ -1,6 +1,6 @@
 # smallfeat
 
-**smallfeat** is a tiny program to display Android's [CPU features](https://android.googlesource.com/platform/ndk/+/master/sources/android/cpufeatures/cpu-features.h) (check your NDK Programmer's Guide for details). Mostly for curiosity purposes, but can sometimes be useful when tweaking compiler flags.
+**smallfeat** is a tiny program to display an Android device's [CPU features](https://android.googlesource.com/platform/ndk/+/master/sources/android/cpufeatures/cpu-features.h) (check your NDK Programmer's Guide for details). Mostly for curiosity purposes, but can sometimes be useful when tweaking compiler flags.
 
 Does not require root.
 
